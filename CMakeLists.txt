@@ -8,5 +8,4 @@ add_executable(Wargame
         src/Task_2/circle_buffer_list.h
         test/test_circle_array.h
         test/test_circle_list.h
-        main.cpp
         test/test.cpp)
