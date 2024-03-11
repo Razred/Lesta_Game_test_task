@@ -1,0 +1,3 @@
+C:/Users/USER/CLionProjects/Wargame/cmake-build-debug/CMakeFiles/Wargame.dir
+C:/Users/USER/CLionProjects/Wargame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/CLionProjects/Wargame/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+# ninja log v5
+553	693	7318598665930137	Wargame.exe	3ec3d6f5b41937b1
+12	95	7318597449539947	CMakeFiles/Wargame.dir/main.cpp.obj	5d110b1a358a53b6
+1	264	7318602897486406	build.ninja	92f766135b1de941
+3	552	7318598664563781	CMakeFiles/Wargame.dir/test/test.cpp.obj	2c200c314078274b
+9	93	7318602927637231	CMakeFiles/Wargame.dir/main.cpp.obj	6bbf4d2e1a71a620
+1	500	7318602931698165	CMakeFiles/Wargame.dir/test/test.cpp.obj	6e2f436d196d26f8
+501	626	7318602932939214	Wargame.exe	3ec3d6f5b41937b1
