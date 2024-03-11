@@ -71,7 +71,7 @@ isEven(int value){return value%2==0;}
 
 **Реализация**
 
-1. Исходный код: циклический буфер на массиве [ссылка](https://github.com/Razred/Lesta_Game_test_task/blob/master/src/Task_2/https://github.com/Razred/Lesta_Game_test_task/blob/master/src/Task_2/circle_buffer_array.h)
+1. Исходный код: циклический буфер на массиве [ссылка](https://github.com/Razred/Lesta_Game_test_task/blob/master/src/Task_2/circle_buffer_array.h)
 2. Исходный код: циклический буфер на связном списке [ссылка](https://github.com/Razred/Lesta_Game_test_task/blob/master/src/Task_2/circle_buffer_list.h)
 
 
